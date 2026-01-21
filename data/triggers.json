@@ -1,0 +1,10 @@
+{
+    "triggers": ["hello", "hi", "hey", "greetings"],
+    "responses": [
+        "Hello there!",
+        "Hi! How can I help you?",
+        "Hey! What's up?",
+        "Greetings! Hope you're having a great day!",
+        "Gooning for the Skibidi Ohio Rizzlers"
+    ]
+}
